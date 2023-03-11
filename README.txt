@@ -1,1 +1,1 @@
-This repo was create for a basic SQL Injection CTF 
+This repo was created for a UNION-BASED SQL Injection CTF 
